@@ -1,3 +1,3 @@
-layout: page
-title: "Aspen Forest Change Mapping"
-permalink: /aspen
+This was a Summer 2026 project for NASA EarthRISE Developers Academy. My team was tasked with investigating changes in aspen forests in Colorado after disturbances caused by wildfire and drought. My primary task was investigating climate-related disturbance of aspen forests in the Grand Mesa in western Colorado. I used the LandTrendr model implemented in Google Earth Engine to track the maximum decline in the Tasseled Cap Wetness index as a proxy for the level of degradation in the forest. We discovered that the greatest magnitude of decline was along the southern slope of the mesa in the shrubland transition zone. This information will be used to support CPW's efforts in Summer 2027 to survey aspen forests to estimate moose habitat availability.
+
+<img src="Images/Grand_Mesa_Map.png?raw=true"/>
