@@ -1,0 +1,1 @@
+<img src="Images/Study_Area.png?raw=true"/>
