@@ -1,9 +1,9 @@
 ## Portfolio
 
-### Aspen Forest Change Mapping
+[Aspen Forest Change Mapping](/aspen)
 
-### Classification of Former Agricultural Land
+Classification of Former Agricultural Land
 
-### SAR-Based Crop Phenology Detection
+SAR-Based Crop Phenology Detection
 
-### LiDAR-Based Quantification of Geomorphological Texture
+LiDAR-Based Quantification of Geomorphological Texture
